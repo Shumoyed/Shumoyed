@@ -13,7 +13,7 @@
 <div align="center">
     亜州大学 デジタルメディア学科 学士 (2018.03 ~ 2026.02)
 </div>
-<h2 align="center">🏆　受賞</h2>
+<h2 align="center">🏆 受賞</h2>
 <div align="center">
     2025年度 ICTプロジェクトチャレンジーコンテスト 大賞 (2025.08.30)
 </div>
