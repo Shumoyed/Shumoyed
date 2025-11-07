@@ -1,7 +1,9 @@
 <h2 align="center">💼 経歴</h2>
 <div align="center">
     韓国　株式会社FS 電気火災予防システム部 インターン生 (2020.02~2021.01)
-    日本　日立ハイテク (2026.04~)
+</div>
+<div align="center">
+日本　日立ハイテク (2026.04~)
 </div>
 
 <h2 align="center">🎓 教育</h2>
